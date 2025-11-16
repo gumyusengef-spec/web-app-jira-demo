@@ -1,4 +1,4 @@
-app.get('/home', (req, res) => {
-    res.send('Welcome to the Homepage! This route is linked with Jira issue WEB-1.');
-});
 
+app.get('/login', (req, res) => {
+    res.send('User authentication placeholder route for WEB-124.');
+});
