@@ -6,3 +6,4 @@ Update homepage styling example for Jira Smart Commit
 Testing smart commits for WEB-1
 
 Jira Smart Commit test
+Implement user authentication feature
